@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Domain-Driven
+  docker:
+    compose:
+      enabled: false
